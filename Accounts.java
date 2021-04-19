@@ -13,6 +13,8 @@ public class Accounts {
         this.name = name;
         this.price = price;
         this.quantity = quantity;
+
+        
     }
 
 // this getter method of type data member.
